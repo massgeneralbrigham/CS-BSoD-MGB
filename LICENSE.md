@@ -1,4 +1,4 @@
-# CS-BSoD-Cure-by-Mass-General-Brigham
+# CS-BSoD Cure by Mass General Brigham
 
 ## End User License Agreement  (“EULA”)
 
