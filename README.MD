@@ -25,9 +25,6 @@ This project developed an automated solution to address and remediate issues rel
 7.	The device will then reboot to a working state
 8.	Remove the USB and move on to the next device
 
-# License: 
-Distributed under the [MIT License](https://opensource.org/license/mit)
-
 # Disclaimers
 This project is provided "as is" without any guarantees or warranty. Use at your own risk. The maintainers and contributors are not responsible for any damages or losses that may arise from using this project.
 
