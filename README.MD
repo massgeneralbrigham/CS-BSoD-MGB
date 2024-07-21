@@ -20,12 +20,19 @@ This project developed an automated solution to address and remediate issues rel
 # Steps needed for Remediation: 
 
 1.	Plug in USB with the ISO Image
+
 2.	Reboot the device by holding the power button
+
 3.	Hold [F9] for HP device or [F12] for Dell device while the device is booting up
+
 4.	Select Boot from USB
+
 5.	Task Sequence Menu Appears: Click Next (twice)
+
 6.	The user will then see: “Crowdstrike fix completed successfully, rebooting in 30 seconds".  
+
 7.	The device will then reboot to a working state
+
 8.	Remove the USB and move on to the next device
 
 # Disclaimers and Warranties
