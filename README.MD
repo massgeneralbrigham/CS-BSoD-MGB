@@ -13,7 +13,7 @@ This project developed an automated solution to address and remediate issues rel
    
 4.	PowerShell Script template that includes a hash table to contain an offline copy of Microsoft BitLocker Administration and Monitoring (MBAM) IDs & Keys, necessary Microsoft manage-bde commands, and deletion of the c-00000291*.sys file to automate the recovery process.  It’s recommended that the script be compiled into an executable.  Signing and additional security measures may be warranted and should be reviewed with your security team before implementation.
    
-5.	Total Media Size is less than 1Gig.
+5.	Total Media Size is less than 1 GB
    
 6.	Takes less than 1 minute (approx.) to execute and remediate an affected device 
 
