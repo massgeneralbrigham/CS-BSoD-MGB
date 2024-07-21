@@ -39,3 +39,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [Melissa Landman](https://www.linkedin.com/in/melissa-landman-56970b9/)  – Photo Creator
 
 [Rebecca G. Mishuris](https://www.linkedin.com/in/rebecca-mishuris) – Coined Term/Nomenclator
+
+# Copyright
+Copyright (c) 2024 Mass General Brigham (MGB)
+
