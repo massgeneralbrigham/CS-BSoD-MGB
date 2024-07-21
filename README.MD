@@ -29,7 +29,7 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [Nallan Sriraman](https://www.linkedin.com/in/nallansriraman/) | cto@mgb.org
 
 # Project Link
-[CS-BSD-Cure-by-Mass-General-Brigham](https://github.com/massgeneralbrigham/CS-BSoD-MGB/blob/main/README.MD)
+[CS-BSoD-Cure-by-Mass-General-Brigham](https://github.com/massgeneralbrigham/CS-BSoD-MGB/blob/main/README.MD)
 
 # Acknowledgements
 [Shawn Louis Martineau](https://www.linkedin.com/in/shawn-martineau-a087ba21/) – Primary Inventor
