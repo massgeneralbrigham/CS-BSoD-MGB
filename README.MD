@@ -8,7 +8,7 @@ This project developed an automated solution to address and remediate issues rel
 
 2.	Windows WinPE is Microsoft’s lightweight operating system used for system recovery of workstations, and servers, or for troubleshooting an operating system while it is offline.
    
-3.	The ISO image will expire on August 20th at midnight. After this date, it will not function as intended.
+3.	The ISO image was created with a MECM media creation process that included an expiration date.  When creating your own ISO, an expiration date is optional.
    
 4.	PowerShell Script template that includes a hash table to contain an offline copy of Microsoft BitLocker Administration and Monitoring (MBAM) IDs & Keys, necessary Microsoft manage-bde commands, and deletion of the c-00000291*.sys file to automate the recovery process.  It’s recommended that the script be compiled into an executable.  Signing and additional security measures may be warranted and should be reviewed with your security team before implementation.
    
