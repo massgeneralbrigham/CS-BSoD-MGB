@@ -1,4 +1,4 @@
-# CS-BSD-Vaccine-by-Mass-General-Brigham 
+# CS-BSD-Cure-by-Mass-General-Brigham 
 
 This project developed an automated solution to address and remediate issues related to the recent [CrowdStrike Blue Screen of Death](https://www.crowdstrike.com/blog/to-our-customers-and-partners/) with Windows devices (servers, desktops, laptops and kiosk style devices) global event on July 19, 2024.  The initial [solutions from CrowdStrike and Microsoft were extremely manual](https://support.microsoft.com/en-us/topic/kb5042421-crowdstrike-issue-impacting-windows-endpoints-causing-an-0x50-or-0x7e-error-message-on-a-blue-screen-b1c700e0-7317-4e95-aeee-5d67dd35b92f) and time-consuming, requiring a technical resource and over 15 minutes (approx) per device. This was not scalable. Given 8.5M devices impacted worldwide, the public needs a fully automated solution that does not require technical knowledge and takes under a minute to remediate a device.  
 # Summary of the solution:
