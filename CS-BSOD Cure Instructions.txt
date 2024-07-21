@@ -5,4 +5,4 @@ The following instructions may vary based on your boot media solution and needs:
 3. Compile the CSRecovery.ps1 into a an executable (CSRecovery.exe). (optional: the script can be run direct, but its recommended compile the script as a security measure or implement your own security controls as warranted.)
 4. Create ISO using the steps provided in the attached "MECM - Standalone Media Creation.txt" file. (optional: This may be replaced with your own ISO creation process.)
 5. Create bootable USB using the steps provided in the attached "Create USB with Rufus Utility.txt" file. (optional: This may be replaced by your own boot media solution.)
-6. Boot Media is now ready for use.  Please see the attached "CrowdStrike Device Remediation Execution Tipsheet.docx" for use instructions.   This tipsheet is a sample and should be replaced by your own set of instructions.  
+6. Boot Media is now ready for use.  Please see the attached "CrowdStrike Device Remediation (USB v2).pdf" for use instructions. This tipsheet is a sample and should be replaced by your own set of instructions.  
