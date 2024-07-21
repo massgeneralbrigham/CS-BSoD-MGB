@@ -2,7 +2,7 @@
 
 ## End User License Agreement  (“EULA”)
 
-##MIT License
+# MIT License
  
 Copyright (c) 2024 Mass General Brigham Incorporated
  
