@@ -2,7 +2,6 @@
 
 This project developed an automated solution to address and remediate issues related to the recent CrowdStrike stop error (also known as Blue Screen of Death) global event on July 19, 2024, impacting Windows devices (servers, desktops, laptops and kiosk style devices).  The initial solutions from CrowdStrike and Microsoft were extremely manual and time-consuming, requiring a technical resource and over 15 minutes per device. This was not scalable. Given 8.5M devices impacted worldwide, the public needs a fully automated solution that does not require technical knowledge and takes under a minute to remediate a device. 
 
-
 # Summary of the solution:
 
 1.	Microsoft Endpoint Configuration Manager (MECM) with Full Media ISO image file that contains a full set of vendors (Dell & HP) Windows PE (WinPE) drivers.  
@@ -17,23 +16,7 @@ This project developed an automated solution to address and remediate issues rel
    
 6.	Takes less than 1 minute (approx.) to execute and remediate an affected device 
 
-# Steps needed for Remediation: 
-
-1.	Plug in USB with the ISO Image
-
-2.	Reboot the device by holding the power button
-
-3.	Hold [F9] for HP device or [F12] for Dell device while the device is booting up
-
-4.	Select Boot from USB
-
-5.	Task Sequence Menu Appears: Click Next (twice)
-
-6.	The user will then see: “Crowdstrike fix completed successfully, rebooting in 30 seconds".  
-
-7.	The device will then reboot to a working state
-
-8.	Remove the USB and move on to the next device
+7. Instrcutions attached 
 
 # Disclaimers and Warranties
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
