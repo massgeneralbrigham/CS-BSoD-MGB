@@ -11,12 +11,14 @@ This project developed an automated solution to address and remediate issues rel
 3.	The ISO image was created with a MECM media creation process that included an expiration date.  When creating your own ISO, an expiration date is optional.
    
 4.	PowerShell Script template that includes a hash table to contain an offline copy of Microsoft BitLocker Administration and Monitoring (MBAM) IDs & Keys, necessary Microsoft manage-bde commands, and deletion of the c-00000291*.sys file to automate the recovery process.  It’s recommended that the script be compiled into an executable.  Signing and additional security measures may be warranted and should be reviewed with your security team before implementation.
-   
-5.	Total Media Size is less than 1 GB
-   
-6.	Takes less than 1 minute (approx.) to execute and remediate an affected device 
 
-7. Instrcutions attached 
+5. USB Boot Media Utility used was Rufus. Rufus is a utility that helps format and create bootable USB flash drives, such as USB keys/pendrives, memory sticks, etc.    
+
+6.	Total Media Size is less than 1 GB
+   
+7.	Takes less than 1 minute (approx.) to execute and remediate an affected device 
+
+8, Instrcutions attached 
 
 # Disclaimers and Warranties
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
