@@ -1,0 +1,18 @@
+Purpose: 
+  Create Boot Media using Rufus Utility. 
+
+Prerequisites: 
+  Unencrypted USB Thumb drive to be used for remediation.
+  Windows machine with Rufus Application installed. (Requires elevation)
+ 
+Instructions:
+  NOTE: Depending on ISO size, the boot media could take 10-40 minutes to create.
+
+  1. Navigate to location of iso image file.
+  2. Download the RUFUS Utility from https://rufus.ie/downloads/
+  3. Insert the USB drive into your device. Imaging USBs must be unencrypted.
+  4. Launch the Rufus utility.
+  5. Click SELECT to browse to the locally saved path of the ISO.
+  6. Select the ISO file and click Open.
+  7. In the Rufus utility leave the default selections. GPT for partition scheme, Target System type is UEFI, and FAT32 for File System
+  8. Select Start to create the USB media.
