@@ -1,0 +1,52 @@
+Purpose: 
+  Creates a MECM based standalone media (ISO)  
+
+Prerequisites: 
+  Access to MECM console
+  MECM Boot Image (WinPE)
+ 
+Instructions:
+  MECM – Create an MECM package
+  1. Copy the Complied exe (PowerShell script) to the MECM contents source location
+  2. Launch MECM console
+  3. Right-click Packages
+  4. Select Create Package
+  5. Provide a package name and source files location
+  6. Select Do not create a program
+  7. Click Next to create the package
+
+  MECM – Task Sequence Creation
+  1. Launch MECM Console
+  2. Navigate to Operating Systems
+  3. Right-click the Task Sequences
+  4. Select Create a new custom task sequence
+  5. Provide a task sequence name
+  6. - Click Next
+  7. Right-click the newly created task sequence and select Edit
+  8. Click Add – General – Run Command line
+  9. Command line: “cmd.exe /c <Your Compiled Script EXE”
+  10. Select Package and reference your Script package
+  11. Click Apply
+  12. Click Ok
+
+  MECM – Standalone Media Creation
+  1. Launch MECM Console
+  2. Navigate to Operating Systems
+  3. Right-click Task Sequences
+  4. Select Create Task Sequence Media
+  5. Select Stand-alone media
+  6. Select cd/dvd set and configure the media size
+  7. Under Media File, Click Browse. Specify the name and path of the output Media file
+  8. Click Save
+  9. Select Password or Date range in the Security page
+  10. On the Stand-Alone CD/DVD page, click Browse and select the task sequence
+  11. Verify the list of content referenced by the task sequence. Click Next
+  12. Click Next in the associated application dependencies
+  13. Click Next in the Select application content to add page
+  14. Click Next in the Select package content to add page
+  15. Click Next in the Select driver package content to add page
+  16. Specify the distribution points on the Distribution Points page containing the required content
+  17. Select the DP and click Add
+  18. Click Next in the Customization page
+  19. Review the task sequence media details, and click Next
+  20. After completing successfully, click close to exit the wizard.
