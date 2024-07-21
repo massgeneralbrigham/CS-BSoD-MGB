@@ -1,4 +1,4 @@
-# CS-BSD-Cure-by-Mass-General-Brigham 
+# CS-BSoD-Cure-by-Mass-General-Brigham 
 
 This project developed an automated solution to address and remediate issues related to the recent CrowdStrike stop error (also known as Blue Screen of Death) global event on July 19, 2024, impacting Windows devices (servers, desktops, laptops and kiosk style devices).  The initial solutions from CrowdStrike and Microsoft were extremely manual and time-consuming, requiring a technical resource and over 15 minutes per device. This was not scalable. Given 8.5M devices impacted worldwide, the public needs a fully automated solution that does not require technical knowledge and takes under a minute to remediate a device. 
 
