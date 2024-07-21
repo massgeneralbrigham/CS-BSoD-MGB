@@ -1,8 +1,8 @@
-# CS BSoD Cure by Mass General Brigham
+# CS-BSoD-Cure-by-Mass-General-Brigham
 
 ## End User License Agreement  (“EULA”)
 
-This EULA is a contract between The Brigham and Women’s Hospital (“HOSPITAL”) and you (each a “Party”, and collectively the “Parties”) and provides you with a license to use “CS BSoD Cure” (the “Software Tool”) subject to the terms and conditions set forth below.  
+This EULA is a contract between The Brigham and Women’s Hospital (“HOSPITAL”) and you (each a “Party”, and collectively the “Parties”) and provides you with a license to use “CS-BSoD-Cure-by-Mass-General-Brigham” (the “Software Tool”) subject to the terms and conditions set forth below.  
 This EULA governs your use of the Software Tool. If you are agreeing to this EULA on behalf of a company or other entity, you represent that you have the authority to agree to the terms and conditions of this EULA on behalf of such entity, and that such entity hereby agrees to be bound by these terms.  By accessing the Software Tool, you are agreeing to this EULA.  If you do not agree to this EULA, do not access the Software Tool.
 
 **Please note that the Software Tool is intended to be used for non-commercial research, informational and educational purposes; it is NOT made available here for any commercial or clinical use.**
