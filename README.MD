@@ -41,5 +41,5 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 [Rebecca G. Mishuris](https://www.linkedin.com/in/rebecca-mishuris) – Coined Term/Nomenclator
 
 # Copyright
-Copyright (c) 2024 Mass General Brigham (MGB)
+Copyright (c) 2024 Mass General Brigham Incorporated
 
